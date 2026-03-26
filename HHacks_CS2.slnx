@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HHacks_CS2_Training/HHacks_CS2_Training.vcxproj" Id="72d3d84f-3bd9-4b05-aeda-904cf9985da8" />
+</Solution>
